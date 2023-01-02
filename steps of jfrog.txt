@@ -12,4 +12,4 @@ PASS: passward
 click on grt started
 new pass : admin@123
 click on next -> skip...skip...skip.. 
-click pn finish 
+click pn finish ...
