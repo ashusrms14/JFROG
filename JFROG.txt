@@ -1,0 +1,15 @@
+sudo su -
+wget link-of-jfrog
+tar -zxvf j(tab)
+cd art(tab) 
+cd app/
+cd bin
+ls
+./artyfactoryctl
+copy the public url os aws instance and paste it on prowser with port no :8082
+UN: admin
+PASS: passward
+click on grt started
+new pass : admin@123
+click on next -> skip...skip...skip.. 
+click pn finish 
